@@ -1,3 +1,3 @@
-# Credit-Card-Fraud-Machine-Learning-Algo
+# Machine Learning: Music Recommender 
 
-This is a KNN and Decision Tree stacked machine learning algorithm that detects fraudulent credit card transactions and automatically notifies customers through their emails of suspicious activity.
+This is a simple Decision Tree algo that reccomends a music genre class for an instance in the data
